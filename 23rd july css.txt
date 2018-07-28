@@ -1,0 +1,30 @@
+
+html elements the specified positions properties
+..for css positions we use the property call postion
+..thw css position property contain the following
+...1 all the html elements will be having with the static position complete.
+...2 any html elements is declared with static position then its moments is not affected by top ,bottom,left propertys
+....related elemets
+any html elementts with relative position is its moments affected top right,bottom 
+we normally use in css elements on the web page in the specify duration.
+position absolute:any html position is affected by top,bottom,right,left properties. but its movements is depends on parent element
+where as the html element with relive position is independent.
+Pixcell:: any html is declare with fixedposition then its always fixed in the specified position even we open the web page
+...Sticky: we normally use fix some novigation bar
+sticky
+..1 any html element is defined wiht sticky position then its movement its purly depend on we normally use this advetisement on the webpage.
+
+html elements classification the html elements will be displayed on the web age based on their display nature
+only but not depend on how we retun the html document all the html elements are divided into two categories based on their displaynature.
+inline     blocklevel elements
+ <a>       		<p>
+ <span>			<div>
+<input>			<h1>
+
+the inline elements the above the diagram will be displyed on the same webpage even though line by line the html documen
+block level elemets in specified in the abov  diagra will be displyed on the even though in a single line in the html document so the the html elements
+will not be displayed how we write in a html document the will dispy on the web pge based on display natere
+by using we can change the deafault the nature using a property call display.
+the css display property the following property.
+This property we can convert the blocklevel elements the inline elements and used to display the html elemnts as
+this propery used to hide
